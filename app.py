@@ -245,4 +245,4 @@ def update_output_div(date, hour, proy):
 if __name__ == "__main__":
     app.run(debug=True)
 
-# Cambio propuesto por María Valentina Páez para el Taller 2 de GitHub
+# Cambio propuesto por María Valentina Páez para el Taller 2 de GitHub# aporte de Samuel
